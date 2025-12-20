@@ -1,7 +1,4 @@
 ## 🗂️ 🏛️ Executive Business Presentation Vault
-<img align="right" alt="Rajeev" width="50" src="KM.svg" />
-<img align="right" alt="Rajeev" width="50" src="kg.svg" />
-<img align="right" alt="Rajeev" width="50" src="K.svg" />
 
 ---
 
